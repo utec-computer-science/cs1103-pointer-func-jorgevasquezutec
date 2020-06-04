@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/UTEC/Ciclo3/PO2/TAREAS/teoria/pendientes/cs1103-pointer-func-jorgevasquezutec/src/main.cpp
+iostream
+-
+
